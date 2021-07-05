@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: com.quinny898.library.persistentsearch:library:1.1.0-SNAPSHOT@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67a63f06ca6da3f55499e8613e88a231/jetified-library-1.1.0-SNAPSHOT/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10635fb1751e08fa89e0c49b7051edfe/jetified-library-1.1.0-SNAPSHOT/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/374a7c909b5079065f15a390136ade15/jetified-library-1.1.0-SNAPSHOT/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67a63f06ca6da3f55499e8613e88a231/jetified-library-1.1.0-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67a63f06ca6da3f55499e8613e88a231/jetified-library-1.1.0-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/67a63f06ca6da3f55499e8613e88a231/jetified-library-1.1.0-SNAPSHOT/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10635fb1751e08fa89e0c49b7051edfe/jetified-library-1.1.0-SNAPSHOT/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10635fb1751e08fa89e0c49b7051edfe/jetified-library-1.1.0-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/10635fb1751e08fa89e0c49b7051edfe/jetified-library-1.1.0-SNAPSHOT/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/374a7c909b5079065f15a390136ade15/jetified-library-1.1.0-SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/374a7c909b5079065f15a390136ade15/jetified-library-1.1.0-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/374a7c909b5079065f15a390136ade15/jetified-library-1.1.0-SNAPSHOT/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

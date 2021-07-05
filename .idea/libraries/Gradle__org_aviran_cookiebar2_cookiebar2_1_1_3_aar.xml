@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: org.aviran.cookiebar2:cookiebar2:1.1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e546cc6a1a24a0bf744c6c7cb868ba01/jetified-cookiebar2-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e546cc6a1a24a0bf744c6c7cb868ba01/jetified-cookiebar2-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e546cc6a1a24a0bf744c6c7cb868ba01/jetified-cookiebar2-1.1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fa9920db8815cb5371568fb92e61ee2/jetified-cookiebar2-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fa9920db8815cb5371568fb92e61ee2/jetified-cookiebar2-1.1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5fa9920db8815cb5371568fb92e61ee2/jetified-cookiebar2-1.1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e51a1976146d581f45b6f547b75fef8/jetified-cookiebar2-1.1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e51a1976146d581f45b6f547b75fef8/jetified-cookiebar2-1.1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1e51a1976146d581f45b6f547b75fef8/jetified-cookiebar2-1.1.3/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aviran.cookiebar2/cookiebar2/1.1.3/4cadf232fb4554ca720d656f9be4a580452525c6/cookiebar2-1.1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aviran.cookiebar2/cookiebar2/1.1.3/4c697af70c5d3491ca7e3bfaa9977549ac0c2ba0/cookiebar2-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

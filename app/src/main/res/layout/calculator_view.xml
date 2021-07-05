@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="10dp"
+    android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/input_msg"
+        android:textSize="15dp"
+        android:layout_margin="10dp"
+        android:text="Tile Size Wall or Floor"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:id="@+id/tiles_xy_parent"
+        android:layout_below="@id/input_msg"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/et_height"
+            android:layout_width="0dp"
+            android:inputType="numberDecimal"
+            android:hint="height"
+            android:layout_height="50dp"
+            android:layout_weight="1"/>
+        <EditText
+            android:id="@+id/et_width"
+            android:layout_width="0dp"
+            android:inputType="numberDecimal"
+            android:hint="Width"
+            android:layout_height="50dp"
+            android:layout_weight="1"/>
+        <Spinner
+            android:id="@+id/xy_unit_spinner"
+            android:layout_height="50dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+    </LinearLayout>
+    <TextView
+        android:id="@+id/area_msg"
+        android:layout_below="@+id/tiles_xy_parent"
+        android:text="Total Area of Wall or Floor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:id="@+id/area_parent"
+       android:layout_below="@id/area_msg"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/et_area"
+            android:layout_width="0dp"
+            android:inputType="numberDecimal"
+            android:hint="height"
+            android:layout_height="50dp"
+            android:layout_weight="1"/>
+        <Spinner
+            android:id="@+id/area_unit_spinner"
+            android:layout_height="50dp"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/btn_parent"
+        android:layout_below="@id/area_parent"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn_calculate"
+            android:layout_width="0dp"
+            android:inputType="numberDecimal"
+            android:text="Calculate"
+            android:layout_height="40dp"
+            android:layout_weight="1"/>
+        <Button
+            android:id="@+id/btn_reset"
+            android:layout_width="0dp"
+            android:inputType="numberDecimal"
+            android:text="Reset"
+            android:layout_height="40dp"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_below="@+id/btn_parent"
+        android:id="@+id/result_msg"
+        android:text="Number of Tiles (Pc) Needed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@+id/result"
+        android:layout_below="@+id/result_msg"
+        android:text=""
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+
+    <ImageButton
+        android:id="@+id/close"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/com_facebook_close"
+        android:layout_width="28dp"
+        android:layout_height="28dp"/>
+
+</RelativeLayout>
